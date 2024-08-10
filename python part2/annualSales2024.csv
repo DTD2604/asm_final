@@ -1,0 +1,161 @@
+ResultID,Date,Product,Price,Quantity,Revenue,Customer,Customer Address
+5,2024-01-04,Smartwatch,300.0,20,6000.0,David Miller,"123 Maple Street, Phoenix"
+45,2024-01-10,Car Phone Mount,40.0,15,600.0,Elias Price,"123 Maple Street, Honolulu"
+62,2024-01-27,Wireless Speaker,491.6505950705527,6,2949.903570423316,Zoe Peterson,"1000 Pine Drive, Baton Rouge"
+79,2024-01-15,USB-C Docking Station,252.4103172190844,15,3786.1547582862654,Benjamin Peterson,"123 Maple Street, Tucson"
+87,2024-01-17,Portable Projector,1481.0162720754097,15,22215.244081131143,Harper Lewis,
+115,2024-01-11,Portable Bluetooth Keyboard,1467.1354972228523,10,14671.354972228524,Amelia Clark,
+136,2024-01-05,USB-C Docking Station,214.12796734257088,15,3211.919510138563,Henry Scott,
+137,2024-01-17,Wireless Router,1184.9521383431704,12,14219.425660118046,Zoe Young,
+138,2024-01-24,Compact Digital Camera,925.5711770853096,15,13883.567656279643,Henry Scott,
+2,2024-10-13,Smartphone,600.0,8,4800.0,Emily Johnson,"456 Elm Avenue, New York City"
+18,2024-10-25,Bluetooth Earbuds,120.0,12,1440.0,Mia Perez,"456 Elm Avenue, Seattle"
+32,2024-10-29,Noise-Canceling Earbuds,200.0,6,1200.0,Stella Cooper,"1000 Pine Drive, Tucson"
+41,2024-10-08,Power Strip,60.0,8,480.0,Levi Coleman,"123 Main Street, Omaha"
+75,2024-10-10,Compact Digital Camera,1140.280554315766,15,17104.20831473649,Noah Morris,"123 Main Street, Anchorage"
+77,2024-10-25,Home Security Camera,1499.7758291752782,6,8998.65497505167,Elijah Lee,"789 Oak Boulevard, Charlotte"
+88,2024-10-14,Wireless Mouse,316.183948068556,8,2529.471584548448,Alexander Taylor,
+97,2024-10-13,Portable Charger,469.5488937535487,8,3756.39115002839,Sophia Garcia,
+117,2024-10-19,USB-C Docking Station,594.740955527911,12,7136.891466334932,Zoe Young,
+131,2024-10-15,Wireless Router,1473.6249940445095,12,17683.499928534115,Zoe Young,
+135,2024-10-14,USB-C Docking Station,439.8008000041825,12,5277.60960005019,Zoe Young,
+144,2024-10-29,Compact Digital Camera,826.8941992997545,15,12403.412989496315,Henry Scott,
+148,2024-10-23,USB-C Docking Station,377.1305698160498,15,5656.958547240748,Henry Scott,
+48,2024-11-12,WiFi Range Extender,100.0,12,1200.0,Piper Bryant,"1000 Pine Drive, New Orleans"
+63,2024-11-09,E-reader,597.6499474320918,10,5976.499474320918,Leo Watson,"123 Maple Street, Des Moines"
+74,2024-11-10,Wireless Router,654.8811758995062,12,7858.574110794074,Mia Watson,"1000 Pine Drive, St. Louis"
+89,2024-11-15,Dash Cam,247.21126380179936,10,2472.112638017993,Amelia Clark,
+111,2024-11-26,USB-C Docking Station,450.6255995948712,12,5407.507195138454,Zoe Young,
+120,2024-11-04,Compact Digital Camera,203.33629744734745,15,3050.044461710212,Henry Scott,
+125,2024-11-16,Wireless Router,58.6022562608427,12,703.2270751301124,Zoe Young,
+129,2024-11-15,USB-C Docking Station,910.7719660993868,12,10929.263593192642,Zoe Young,
+160,2024-11-10,USB-C Docking Station,674.7193584957348,15,10120.790377436022,Henry Scott,
+4,2024-12-22,Tablet,400.0,15,6000.0,Jennifer Brown,"1000 Pine Drive, Houston"
+10,2024-12-02,Fitness Tracker,150.0,15,2250.0,Amanda Taylor,"456 Elm Avenue, San Jose"
+11,2024-12-28,Desktop Computer,1500.0,4,6000.0,Matthew Thomas,"789 Oak Boulevard, Austin"
+19,2024-12-22,Action Camera,400.0,6,2400.0,Benjamin Gonzalez,"789 Oak Boulevard, Denver"
+31,2024-12-16,Fitness Smart Scale,100.0,4,400.0,Lucas Morgan,"789 Elm Boulevard, Albuquerque"
+36,2024-12-29,Mechanical Keyboard,150.0,10,1500.0,Ruby Brooks,"1000 Pine Drive, Kansas City"
+38,2024-12-08,Gaming Headset,150.0,12,1800.0,Eva Price,"456 Oak Avenue, Atlanta"
+85,2024-12-10,Bluetooth Earbuds,1039.0952128601675,12,12469.14255432201,Mia Perez,
+86,2024-12-07,Action Camera,852.0327352611646,6,5112.196411566987,Benjamin Gonzalez,
+118,2024-12-12,USB-C Docking Station,953.9594732114268,15,14309.3920981714,Henry Scott,
+130,2024-12-24,USB-C Docking Station,1315.2472597598944,15,19728.708896398417,Henry Scott,
+142,2024-12-11,USB-C Docking Station,709.2237214314608,15,10638.355821471912,Henry Scott,
+152,2024-12-23,Home Security Camera,588.9819649518498,6,3533.8917897110987,Logan Hall,
+8,2024-02-26,Gaming Console,600.0,8,4800.0,Ashley Martinez,"1000 Pine Drive, San Diego"
+66,2024-02-15,VR Headset,1348.7516518467305,8,10790.013214773844,Hazel Miller,"1000 Pine Drive, Salt Lake City"
+83,2024-02-12,VR Headset,187.7849327975917,8,1502.2794623807338,Charlotte Wilson,
+113,2024-02-20,Wireless Router,1290.7722768177716,12,15489.26732181326,Zoe Young,
+119,2024-02-24,Wireless Router,1293.6736938919282,12,15524.084326703138,Zoe Young,
+126,2024-02-25,Compact Digital Camera,1238.3853281821084,15,18575.779922731628,Henry Scott,
+139,2024-02-05,Portable Bluetooth Keyboard,1397.835780201476,10,13978.35780201476,Amelia Clark,
+20,2024-03-08,Portable Projector,300.0,15,4500.0,Harper Lewis,"1000 Pine Drive, Washington D.C."
+27,2024-03-27,Home Security Camera,200.0,8,1600.0,Mason Hill,"789 Oak Boulevard, Las Vegas"
+29,2024-03-17,Gaming Mouse,120.0,6,720.0,Sebastian Cooper,"123 Maple Street, Baltimore"
+46,2024-03-29,RGB Gaming Mouse,80.0,10,800.0,Isabella Long,"456 Oak Avenue, Tampa"
+50,2024-03-22,Wireless Charging Stand,80.0,15,1200.0,Hazel Ward,"456 Elm Avenue, Aurora"
+55,2024-03-24,Smartwatch,818.6763039889695,20,16373.526079779387,Amelia Ellis,"123 Maple Street, St. Louis"
+57,2024-03-26,Camera,1008.4889004964652,6,6050.933402978792,Harper Ward,"789 Elm Boulevard, Cincinnati"
+65,2024-03-14,Smart Home Hub,756.1297761808787,12,9073.557314170544,Jackson Sanders,"789 Elm Boulevard, Richmond"
+67,2024-03-27,External Hard Drive,1370.9603656174916,10,13709.603656174915,Logan Adams,"123 Main Street, San Juan"
+71,2024-03-29,Wireless Mouse,194.31677047290225,8,1554.534163783218,Benjamin Perez,"123 Maple Street, Charleston"
+72,2024-03-18,Dash Cam,1353.3286140331345,10,13533.286140331344,Lucy Bryant,"456 Oak Avenue, Oklahoma City"
+73,2024-03-26,Gaming Keyboard,1060.5012692251455,6,6363.007615350874,Ethan Foster,"789 Elm Boulevard, Pittsburgh"
+103,2024-03-01,Portable Projector,685.8013408619757,15,10287.020112929637,Harper Lewis,
+108,2024-03-27,Compact Digital Camera,1409.6346189310973,15,21144.51928396646,Henry Scott,
+114,2024-03-19,Compact Digital Camera,810.036799153239,15,12150.551987298586,Henry Scott,
+122,2024-03-30,Home Security Camera,926.085513266058,6,5556.513079596349,Logan Hall,
+3,2024-04-12,Laptop,1200.0,5,6000.0,Michael Williams,"789 Oak Boulevard, Chicago"
+7,2024-04-07,Camera,1200.0,6,7200.0,William Wilson,"789 Elm Boulevard, San Antonio"
+35,2024-04-23,Smart Doorbell,300.0,12,3600.0,Carter Rivera,"789 Oak Boulevard, Long Beach"
+37,2024-04-12,USB-C Charging Cable,40.0,8,320.0,Owen Sanders,"123 Maple Street, Mesa"
+39,2024-04-26,Smart Plug,40.0,6,240.0,Samuel Ross,"789 Elm Boulevard, Miami"
+52,2024-04-15,Smartphone,953.3439339041664,8,7626.751471233331,Ava Griffin,"456 Elm Avenue, Anaheim"
+54,2024-04-26,Tablet,465.0900906784623,15,6976.351360176934,Oliver Reed,"1000 Pine Drive, Lexington"
+69,2024-04-01,Action Camera,575.1690314077343,6,3451.014188446406,William Price,"789 Oak Boulevard, Salt Lake City"
+100,2024-04-26,External Hard Drive,131.33020985058516,10,1313.3020985058515,Ethan Lopez,
+105,2024-04-17,Dash Cam,1028.2362074316047,10,10282.362074316046,Amelia Clark,
+109,2024-04-09,Portable Bluetooth Keyboard,820.7873117511153,10,8207.873117511153,Amelia Clark,
+127,2024-04-12,Portable Bluetooth Keyboard,821.1558318862843,10,8211.558318862842,Amelia Clark,
+143,2024-04-09,Wireless Router,740.2339328204494,12,8882.807193845392,Zoe Young,
+153,2024-04-28,USB-C Docking Station,703.2898633668892,12,8439.47836040267,Zoe Young,
+9,2024-05-26,Drone,600.0,12,7200.0,Christopher Anderson,"123 Main Street, Dallas"
+17,2024-05-25,External Hard Drive,150.0,10,1500.0,Ethan Lopez,"123 Main Street, Indianapolis"
+22,2024-05-09,Dash Cam,200.0,10,2000.0,Amelia Clark,"456 Oak Avenue, Nashville"
+33,2024-05-03,Mini Drone,100.0,10,1000.0,Liam Murphy,"123 Main Street, Fresno"
+53,2024-05-24,Laptop,283.43645492169554,5,1417.1822746084777,Noah Bailey,"789 Oak Boulevard, Riverside"
+61,2024-05-01,Desktop Computer,87.21717040116982,4,348.8686816046793,Lucas Morgan,"789 Oak Boulevard, Madison"
+78,2024-05-15,USB-C Docking Station,724.5506298983161,12,8694.607558779793,Harper Gray,"1000 Pine Drive, Las Vegas"
+81,2024-05-15,Portable Charger,801.4412338199965,8,6411.529870559972,Sophia Garcia,
+84,2024-05-30,External Hard Drive,404.7463649774351,10,4047.4636497743513,Ethan Lopez,
+91,2024-05-09,Wireless Router,982.7202707401,12,11792.6432488812,Zoe Young,
+92,2024-05-11,Compact Digital Camera,355.86872049397255,15,5338.030807409588,Henry Scott,
+93,2024-05-06,Portable Bluetooth Keyboard,399.2216595596763,10,3992.216595596763,Amelia Clark,
+110,2024-05-05,Home Security Camera,1133.5416914602156,6,6801.2501487612935,Logan Hall,
+112,2024-05-04,USB-C Docking Station,818.6208992245182,15,12279.313488367774,Henry Scott,
+123,2024-05-04,USB-C Docking Station,640.9849906138302,12,7691.819887365962,Zoe Young,
+128,2024-05-07,Home Security Camera,638.9771045823385,6,3833.862627494031,Logan Hall,
+140,2024-05-12,Home Security Camera,436.6097923619131,6,2619.6587541714784,Logan Hall,
+141,2024-05-11,USB-C Docking Station,1358.9893135130812,12,16307.871762156974,Zoe Young,
+147,2024-05-05,USB-C Docking Station,1083.2791959127928,12,12999.350350953517,Zoe Young,
+149,2024-05-27,Wireless Router,620.9017422794188,12,7450.820907353026,Zoe Young,
+1,2024-06-04,Smart TV,800.0,12,9600.0,John Smith,"123 Main Street, Los Angeles"
+12,2024-06-23,Wireless Speaker,100.0,6,600.0,Olivia Hernandez,"1000 Pine Drive, Jacksonville"
+15,2024-06-18,Smart Home Hub,300.0,12,3600.0,James Rodriguez,"789 Elm Boulevard, Fort Worth"
+16,2024-06-15,VR Headset,500.0,8,4000.0,Charlotte Wilson,"1000 Pine Drive, San Francisco"
+24,2024-06-07,Wireless Router,150.0,12,1800.0,Zoe Young,"1000 Pine Drive, Memphis"
+25,2024-06-11,Compact Digital Camera,300.0,15,4500.0,Henry Scott,"123 Main Street, Portland"
+43,2024-06-30,USB-C Hub,80.0,6,480.0,Leo Grayson,"789 Oak Boulevard, Colorado Springs"
+51,2024-06-24,Smart TV,8.102108268615366,12,97.22529922338438,Liam Watson,"123 Main Street, Pittsburgh"
+58,2024-06-19,Gaming Console,749.1184772535054,8,5992.947818028043,Benjamin Powell,"1000 Pine Drive, Pittsburgh"
+68,2024-06-10,Bluetooth Earbuds,544.8298728336628,12,6537.958474003954,Emily Hughes,"456 Elm Avenue, Little Rock"
+96,2024-06-30,USB-C Docking Station,406.84436314750906,15,6102.665447212636,Henry Scott,
+121,2024-06-29,Portable Bluetooth Keyboard,326.4467088505833,10,3264.467088505833,Amelia Clark,
+145,2024-06-13,Portable Bluetooth Keyboard,1051.083226934852,10,10510.83226934852,Amelia Clark,
+156,2024-06-01,Compact Digital Camera,686.2569607237227,15,10293.854410855842,Henry Scott,
+157,2024-06-14,Portable Bluetooth Keyboard,133.26501665968152,10,1332.650166596815,Amelia Clark,
+158,2024-06-27,Home Security Camera,1000.3075908634078,6,6001.845545180447,Logan Hall,
+6,2024-07-12,Headphones,200.0,10,2000.0,Jessica Davis,"456 Oak Avenue, Philadelphia"
+23,2024-07-27,Gaming Keyboard,150.0,6,900.0,Logan Hall,"789 Elm Boulevard, Detroit"
+28,2024-07-09,USB-C Docking Station,150.0,12,1800.0,Scarlett Baker,"1000 Pine Drive, Louisville"
+40,2024-07-05,Fitness Smartwatch,300.0,15,4500.0,Clara Reed,"1000 Pine Drive, Virginia Beach"
+59,2024-07-27,Drone,545.3183938799872,12,6543.820726559847,Scarlett White,"123 Main Street, Orlando"
+60,2024-07-05,Fitness Tracker,80.57697795478528,15,1208.6546693217792,Lucas Morgan,"456 Elm Avenue, Lincoln"
+76,2024-07-28,Portable Bluetooth Keyboard,285.5649238677922,10,2855.649238677922,Olivia Griffin,"456 Elm Avenue, Cincinnati"
+94,2024-07-17,Home Security Camera,1077.061915831886,6,6462.371494991316,Logan Hall,
+99,2024-07-10,VR Headset,1280.7130074693562,8,10245.70405975485,Charlotte Wilson,
+102,2024-07-16,Action Camera,797.3454041599533,6,4784.07242495972,Benjamin Gonzalez,
+107,2024-07-22,Wireless Router,46.991486847525735,12,563.8978421703089,Zoe Young,
+151,2024-07-04,Portable Bluetooth Keyboard,884.1725977110378,10,8841.725977110378,Amelia Clark,
+159,2024-07-30,USB-C Docking Station,811.0124588524598,12,9732.149506229518,Zoe Young,
+13,2024-08-25,E-reader,250.0,10,2500.0,Daniel King,"123 Maple Street, San Francisco"
+14,2024-08-01,Portable Charger,60.0,8,480.0,Sophia Garcia,"456 Oak Avenue, Columbus"
+30,2024-08-12,Wireless Charging Pad,60.0,15,900.0,Grace Richardson,"456 Oak Avenue, Milwaukee"
+34,2024-08-31,Portable SSD,200.0,8,1600.0,Nora Ward,"456 Elm Avenue, Sacramento"
+42,2024-08-17,Wireless Gaming Controller,120.0,10,1200.0,Harper Watson,"456 Elm Avenue, Raleigh"
+47,2024-08-14,Laptop Stand,40.0,8,320.0,Lincoln Perry,"789 Elm Boulevard, Arlington"
+64,2024-08-01,Portable Charger,696.0495097499737,8,5568.39607799979,Aurora Wright,"456 Oak Avenue, Boise"
+82,2024-08-02,Smart Home Hub,1153.1265078686026,12,13837.51809442323,James Rodriguez,
+95,2024-08-27,USB-C Docking Station,474.3237862280982,12,5691.885434737178,Zoe Young,
+98,2024-08-24,Smart Home Hub,467.4235605385607,12,5609.082726462728,James Rodriguez,
+101,2024-08-09,Bluetooth Earbuds,442.75736142459823,12,5313.088337095179,Mia Perez,
+116,2024-08-16,Home Security Camera,477.1971113835357,6,2863.182668301214,Logan Hall,
+124,2024-08-14,USB-C Docking Station,1128.638240174076,15,16929.573602611137,Henry Scott,
+133,2024-08-02,Portable Bluetooth Keyboard,189.82386304695785,10,1898.2386304695783,Amelia Clark,
+134,2024-08-28,Home Security Camera,283.0278471271196,6,1698.1670827627174,Logan Hall,
+146,2024-08-14,Home Security Camera,265.4410075920239,6,1592.6460455521433,Logan Hall,
+21,2024-09-15,Wireless Mouse,40.0,8,320.0,Alexander Taylor,"123 Maple Street, Boston"
+26,2024-09-21,Portable Bluetooth Keyboard,80.0,10,800.0,Lily Green,"456 Elm Avenue, Oklahoma City"
+44,2024-09-22,Sleep Headphones,200.0,12,2400.0,Layla Brooks,"1000 Pine Drive, Minneapolis"
+49,2024-09-01,Bluetooth FM Transmitter,60.0,6,360.0,Leo Cox,"123 Main Street, Bakersfield"
+56,2024-09-19,Headphones,528.4774701130528,10,5284.774701130528,Elijah Cooper,"456 Oak Avenue, Anchorage"
+70,2024-09-23,Portable Projector,1327.4558886575085,15,19911.83832986263,Amelia Ward,"1000 Pine Drive, San Juan"
+80,2024-09-12,E-reader,886.8301396408442,10,8868.301396408442,Scarlett Wright,"456 Oak Avenue, Sacramento"
+90,2024-09-27,Gaming Keyboard,1381.148994254472,6,8286.893965526831,Logan Hall,
+104,2024-09-03,Wireless Mouse,785.7027339883316,8,6285.621871906653,Alexander Taylor,
+106,2024-09-06,Gaming Keyboard,1146.1214786996477,6,6876.728872197886,Logan Hall,
+132,2024-09-22,Compact Digital Camera,251.4105459384901,15,3771.158189077351,Henry Scott,
+150,2024-09-09,Compact Digital Camera,790.1048139719653,15,11851.57220957948,Henry Scott,
+154,2024-09-23,USB-C Docking Station,465.329821121552,15,6979.94731682328,Henry Scott,
+155,2024-09-08,Wireless Router,106.0433369894644,12,1272.5200438735728,Zoe Young,

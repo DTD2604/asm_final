@@ -1,0 +1,17 @@
+ResultID,Date,Product,Price,Quantity,Revenue,Customer,Customer Address
+1,2024-06-04,Smart TV,800.0,12,9600.0,John Smith,"123 Main Street, Los Angeles"
+12,2024-06-23,Wireless Speaker,100.0,6,600.0,Olivia Hernandez,"1000 Pine Drive, Jacksonville"
+15,2024-06-18,Smart Home Hub,300.0,12,3600.0,James Rodriguez,"789 Elm Boulevard, Fort Worth"
+16,2024-06-15,VR Headset,500.0,8,4000.0,Charlotte Wilson,"1000 Pine Drive, San Francisco"
+24,2024-06-07,Wireless Router,150.0,12,1800.0,Zoe Young,"1000 Pine Drive, Memphis"
+25,2024-06-11,Compact Digital Camera,300.0,15,4500.0,Henry Scott,"123 Main Street, Portland"
+43,2024-06-30,USB-C Hub,80.0,6,480.0,Leo Grayson,"789 Oak Boulevard, Colorado Springs"
+51,2024-06-24,Smart TV,8.102108268615366,12,97.22529922338438,Liam Watson,"123 Main Street, Pittsburgh"
+58,2024-06-19,Gaming Console,749.1184772535054,8,5992.947818028043,Benjamin Powell,"1000 Pine Drive, Pittsburgh"
+68,2024-06-10,Bluetooth Earbuds,544.8298728336628,12,6537.958474003954,Emily Hughes,"456 Elm Avenue, Little Rock"
+96,2024-06-30,USB-C Docking Station,406.84436314750906,15,6102.665447212636,Henry Scott,
+121,2024-06-29,Portable Bluetooth Keyboard,326.4467088505833,10,3264.467088505833,Amelia Clark,
+145,2024-06-13,Portable Bluetooth Keyboard,1051.083226934852,10,10510.83226934852,Amelia Clark,
+156,2024-06-01,Compact Digital Camera,686.2569607237227,15,10293.854410855842,Henry Scott,
+157,2024-06-14,Portable Bluetooth Keyboard,133.26501665968152,10,1332.6501665968153,Amelia Clark,
+158,2024-06-27,Home Security Camera,1000.3075908634078,6,6001.845545180447,Logan Hall,

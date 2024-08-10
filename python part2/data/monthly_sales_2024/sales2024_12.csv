@@ -1,0 +1,14 @@
+ResultID,Date,Product,Price,Quantity,Revenue,Customer,Customer Address
+4,2024-12-22,Tablet,400.0,15,6000.0,Jennifer Brown,"1000 Pine Drive, Houston"
+10,2024-12-02,Fitness Tracker,150.0,15,2250.0,Amanda Taylor,"456 Elm Avenue, San Jose"
+11,2024-12-28,Desktop Computer,1500.0,4,6000.0,Matthew Thomas,"789 Oak Boulevard, Austin"
+19,2024-12-22,Action Camera,400.0,6,2400.0,Benjamin Gonzalez,"789 Oak Boulevard, Denver"
+31,2024-12-16,Fitness Smart Scale,100.0,4,400.0,Lucas Morgan,"789 Elm Boulevard, Albuquerque"
+36,2024-12-29,Mechanical Keyboard,150.0,10,1500.0,Ruby Brooks,"1000 Pine Drive, Kansas City"
+38,2024-12-08,Gaming Headset,150.0,12,1800.0,Eva Price,"456 Oak Avenue, Atlanta"
+85,2024-12-10,Bluetooth Earbuds,1039.0952128601675,12,12469.14255432201,Mia Perez,
+86,2024-12-07,Action Camera,852.0327352611646,6,5112.196411566987,Benjamin Gonzalez,
+118,2024-12-12,USB-C Docking Station,953.9594732114267,15,14309.3920981714,Henry Scott,
+130,2024-12-24,USB-C Docking Station,1315.2472597598944,15,19728.708896398417,Henry Scott,
+142,2024-12-11,USB-C Docking Station,709.2237214314608,15,10638.355821471912,Henry Scott,
+152,2024-12-23,Home Security Camera,588.9819649518498,6,3533.8917897110987,Logan Hall,

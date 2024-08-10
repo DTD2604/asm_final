@@ -1,0 +1,15 @@
+ResultID,Date,Product,Price,Quantity,Revenue,Customer,Customer Address
+21,2024-09-15,Wireless Mouse,40.0,8,320.0,Alexander Taylor,"123 Maple Street, Boston"
+26,2024-09-21,Portable Bluetooth Keyboard,80.0,10,800.0,Lily Green,"456 Elm Avenue, Oklahoma City"
+44,2024-09-22,Sleep Headphones,200.0,12,2400.0,Layla Brooks,"1000 Pine Drive, Minneapolis"
+49,2024-09-01,Bluetooth FM Transmitter,60.0,6,360.0,Leo Cox,"123 Main Street, Bakersfield"
+56,2024-09-19,Headphones,528.4774701130528,10,5284.774701130528,Elijah Cooper,"456 Oak Avenue, Anchorage"
+70,2024-09-23,Portable Projector,1327.4558886575085,15,19911.83832986263,Amelia Ward,"1000 Pine Drive, San Juan"
+80,2024-09-12,E-reader,886.8301396408442,10,8868.301396408442,Scarlett Wright,"456 Oak Avenue, Sacramento"
+90,2024-09-27,Gaming Keyboard,1381.148994254472,6,8286.893965526831,Logan Hall,
+104,2024-09-03,Wireless Mouse,785.7027339883316,8,6285.621871906653,Alexander Taylor,
+106,2024-09-06,Gaming Keyboard,1146.1214786996477,6,6876.728872197886,Logan Hall,
+132,2024-09-22,Compact Digital Camera,251.41054593849006,15,3771.158189077351,Henry Scott,
+150,2024-09-09,Compact Digital Camera,790.1048139719653,15,11851.572209579479,Henry Scott,
+154,2024-09-23,USB-C Docking Station,465.329821121552,15,6979.94731682328,Henry Scott,
+155,2024-09-08,Wireless Router,106.04333698946441,12,1272.5200438735728,Zoe Young,

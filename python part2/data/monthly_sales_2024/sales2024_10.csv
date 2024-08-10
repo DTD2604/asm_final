@@ -1,0 +1,14 @@
+ResultID,Date,Product,Price,Quantity,Revenue,Customer,Customer Address
+2,2024-10-13,Smartphone,600.0,8,4800.0,Emily Johnson,"456 Elm Avenue, New York City"
+18,2024-10-25,Bluetooth Earbuds,120.0,12,1440.0,Mia Perez,"456 Elm Avenue, Seattle"
+32,2024-10-29,Noise-Canceling Earbuds,200.0,6,1200.0,Stella Cooper,"1000 Pine Drive, Tucson"
+41,2024-10-08,Power Strip,60.0,8,480.0,Levi Coleman,"123 Main Street, Omaha"
+75,2024-10-10,Compact Digital Camera,1140.280554315766,15,17104.20831473649,Noah Morris,"123 Main Street, Anchorage"
+77,2024-10-25,Home Security Camera,1499.7758291752782,6,8998.65497505167,Elijah Lee,"789 Oak Boulevard, Charlotte"
+88,2024-10-14,Wireless Mouse,316.183948068556,8,2529.471584548448,Alexander Taylor,
+97,2024-10-13,Portable Charger,469.5488937535487,8,3756.39115002839,Sophia Garcia,
+117,2024-10-19,USB-C Docking Station,594.740955527911,12,7136.8914663349315,Zoe Young,
+131,2024-10-15,Wireless Router,1473.6249940445095,12,17683.499928534115,Zoe Young,
+135,2024-10-14,USB-C Docking Station,439.8008000041825,12,5277.60960005019,Zoe Young,
+144,2024-10-29,Compact Digital Camera,826.8941992997545,15,12403.412989496317,Henry Scott,
+148,2024-10-23,USB-C Docking Station,377.13056981604984,15,5656.958547240748,Henry Scott,

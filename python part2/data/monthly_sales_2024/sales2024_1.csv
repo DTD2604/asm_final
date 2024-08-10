@@ -1,0 +1,10 @@
+ResultID,Date,Product,Price,Quantity,Revenue,Customer,Customer Address
+5,2024-01-04,Smartwatch,300.0,20,6000.0,David Miller,"123 Maple Street, Phoenix"
+45,2024-01-10,Car Phone Mount,40.0,15,600.0,Elias Price,"123 Maple Street, Honolulu"
+62,2024-01-27,Wireless Speaker,491.6505950705527,6,2949.903570423316,Zoe Peterson,"1000 Pine Drive, Baton Rouge"
+79,2024-01-15,USB-C Docking Station,252.41031721908442,15,3786.1547582862663,Benjamin Peterson,"123 Maple Street, Tucson"
+87,2024-01-17,Portable Projector,1481.0162720754095,15,22215.244081131143,Harper Lewis,
+115,2024-01-11,Portable Bluetooth Keyboard,1467.1354972228523,10,14671.354972228524,Amelia Clark,
+136,2024-01-05,USB-C Docking Station,214.12796734257088,15,3211.919510138563,Henry Scott,
+137,2024-01-17,Wireless Router,1184.9521383431704,12,14219.425660118046,Zoe Young,
+138,2024-01-24,Compact Digital Camera,925.5711770853096,15,13883.567656279643,Henry Scott,

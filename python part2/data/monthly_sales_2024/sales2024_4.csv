@@ -1,0 +1,15 @@
+ResultID,Date,Product,Price,Quantity,Revenue,Customer,Customer Address
+3,2024-04-12,Laptop,1200.0,5,6000.0,Michael Williams,"789 Oak Boulevard, Chicago"
+7,2024-04-07,Camera,1200.0,6,7200.0,William Wilson,"789 Elm Boulevard, San Antonio"
+35,2024-04-23,Smart Doorbell,300.0,12,3600.0,Carter Rivera,"789 Oak Boulevard, Long Beach"
+37,2024-04-12,USB-C Charging Cable,40.0,8,320.0,Owen Sanders,"123 Maple Street, Mesa"
+39,2024-04-26,Smart Plug,40.0,6,240.0,Samuel Ross,"789 Elm Boulevard, Miami"
+52,2024-04-15,Smartphone,953.3439339041664,8,7626.751471233331,Ava Griffin,"456 Elm Avenue, Anaheim"
+54,2024-04-26,Tablet,465.0900906784623,15,6976.351360176934,Oliver Reed,"1000 Pine Drive, Lexington"
+69,2024-04-01,Action Camera,575.1690314077343,6,3451.014188446406,William Price,"789 Oak Boulevard, Salt Lake City"
+100,2024-04-26,External Hard Drive,131.33020985058516,10,1313.3020985058515,Ethan Lopez,
+105,2024-04-17,Dash Cam,1028.2362074316047,10,10282.362074316046,Amelia Clark,
+109,2024-04-09,Portable Bluetooth Keyboard,820.7873117511153,10,8207.873117511153,Amelia Clark,
+127,2024-04-12,Portable Bluetooth Keyboard,821.1558318862843,10,8211.558318862842,Amelia Clark,
+143,2024-04-09,Wireless Router,740.2339328204494,12,8882.807193845392,Zoe Young,
+153,2024-04-28,USB-C Docking Station,703.2898633668892,12,8439.47836040267,Zoe Young,

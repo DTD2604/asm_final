@@ -1,0 +1,17 @@
+ResultID,Date,Product,Price,Quantity,Revenue,Customer,Customer Address
+13,2024-08-25,E-reader,250.0,10,2500.0,Daniel King,"123 Maple Street, San Francisco"
+14,2024-08-01,Portable Charger,60.0,8,480.0,Sophia Garcia,"456 Oak Avenue, Columbus"
+30,2024-08-12,Wireless Charging Pad,60.0,15,900.0,Grace Richardson,"456 Oak Avenue, Milwaukee"
+34,2024-08-31,Portable SSD,200.0,8,1600.0,Nora Ward,"456 Elm Avenue, Sacramento"
+42,2024-08-17,Wireless Gaming Controller,120.0,10,1200.0,Harper Watson,"456 Elm Avenue, Raleigh"
+47,2024-08-14,Laptop Stand,40.0,8,320.0,Lincoln Perry,"789 Elm Boulevard, Arlington"
+64,2024-08-01,Portable Charger,696.0495097499737,8,5568.39607799979,Aurora Wright,"456 Oak Avenue, Boise"
+82,2024-08-02,Smart Home Hub,1153.1265078686026,12,13837.51809442323,James Rodriguez,
+95,2024-08-27,USB-C Docking Station,474.3237862280982,12,5691.885434737178,Zoe Young,
+98,2024-08-24,Smart Home Hub,467.42356053856065,12,5609.082726462728,James Rodriguez,
+101,2024-08-09,Bluetooth Earbuds,442.75736142459823,12,5313.088337095179,Mia Perez,
+116,2024-08-16,Home Security Camera,477.1971113835357,6,2863.182668301214,Logan Hall,
+124,2024-08-14,USB-C Docking Station,1128.638240174076,15,16929.573602611137,Henry Scott,
+133,2024-08-02,Portable Bluetooth Keyboard,189.82386304695783,10,1898.2386304695783,Amelia Clark,
+134,2024-08-28,Home Security Camera,283.02784712711957,6,1698.1670827627174,Logan Hall,
+146,2024-08-14,Home Security Camera,265.4410075920239,6,1592.6460455521433,Logan Hall,

@@ -1,0 +1,17 @@
+ResultID,Date,Product,Price,Quantity,Revenue,Customer,Customer Address
+20,2024-03-08,Portable Projector,300.0,15,4500.0,Harper Lewis,"1000 Pine Drive, Washington D.C."
+27,2024-03-27,Home Security Camera,200.0,8,1600.0,Mason Hill,"789 Oak Boulevard, Las Vegas"
+29,2024-03-17,Gaming Mouse,120.0,6,720.0,Sebastian Cooper,"123 Maple Street, Baltimore"
+46,2024-03-29,RGB Gaming Mouse,80.0,10,800.0,Isabella Long,"456 Oak Avenue, Tampa"
+50,2024-03-22,Wireless Charging Stand,80.0,15,1200.0,Hazel Ward,"456 Elm Avenue, Aurora"
+55,2024-03-24,Smartwatch,818.6763039889695,20,16373.526079779389,Amelia Ellis,"123 Maple Street, St. Louis"
+57,2024-03-26,Camera,1008.4889004964652,6,6050.9334029787915,Harper Ward,"789 Elm Boulevard, Cincinnati"
+65,2024-03-14,Smart Home Hub,756.1297761808787,12,9073.557314170544,Jackson Sanders,"789 Elm Boulevard, Richmond"
+67,2024-03-27,External Hard Drive,1370.9603656174916,10,13709.603656174915,Logan Adams,"123 Main Street, San Juan"
+71,2024-03-29,Wireless Mouse,194.31677047290225,8,1554.534163783218,Benjamin Perez,"123 Maple Street, Charleston"
+72,2024-03-18,Dash Cam,1353.3286140331343,10,13533.286140331344,Lucy Bryant,"456 Oak Avenue, Oklahoma City"
+73,2024-03-26,Gaming Keyboard,1060.5012692251457,6,6363.007615350874,Ethan Foster,"789 Elm Boulevard, Pittsburgh"
+103,2024-03-01,Portable Projector,685.8013408619757,15,10287.020112929637,Harper Lewis,
+108,2024-03-27,Compact Digital Camera,1409.6346189310973,15,21144.51928396646,Henry Scott,
+114,2024-03-19,Compact Digital Camera,810.036799153239,15,12150.551987298586,Henry Scott,
+122,2024-03-30,Home Security Camera,926.0855132660581,6,5556.513079596349,Logan Hall,
